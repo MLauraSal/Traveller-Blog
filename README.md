@@ -16,6 +16,7 @@ BACK
  - NodeJS (Entorno JS fuera del navegador
  - Express (Servidor)
  - Axios (fetching de datos front y back)
+ - Mongo DB
 
 **El proyecto cuenta con una carpeta frontend y backend cada una debe abrirse de manera independiente en el editor**  
 Renombrar el archivo .env.example por .env y setear variables
